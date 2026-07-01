@@ -1,5 +1,7 @@
 # GamePlug Fallout 4 Upscaler Mod
 
+![Fallout 4 Mod Preview](fallout4.png)
+
 Adds FSR3, DLSS, XeSS, or DLAA upscaling and FSR3 frame generation to Fallout 4 using the GamePlug D3D11 layer. Improves image clarity and performance scaling while preserving the original game experience.
 
 Enhance Fallout 4 with modern upscaling support through the GamePlug D3D11 layer. This mod injects FSR1/2/3, DLSS, XeSS3, or DLAA upscaling along with FSR3 frame generation into the game, allowing improved image reconstruction and better performance scaling at lower rendering resolutions while maintaining visual quality.
