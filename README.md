@@ -37,8 +37,9 @@ Enhance Fallout 4 with modern upscaling support through the GamePlug D3D11 layer
 ## Downloads
 
 ### Required for v1.1
-- **F4SE (Fallout 4 Script Extender)**
-- **Address Library for F4SE Plugins**
+- **Upscaler Plugin**: [upscaler-plugin-d3d11-d3d12](https://github.com/gameplug-labs/upscaler-plugin-d3d11-d3d12) (contains `upscaler_plugin.dll` and `upscaler_plugin.conf`)
+- **F4SE (Fallout 4 Script Extender)**: [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42147)
+- **Address Library for F4SE Plugins**: [Nexus Mods](https://www.nexusmods.com/fallout4/mods/47327)
 - **GamePlug Fallout 4 F4SE Bridge Plugin**
 
 ### Optional (Download required files for your preferred upscaling type)
