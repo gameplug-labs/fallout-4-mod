@@ -1,7 +1,5 @@
 # GamePlug Fallout 4 Upscaler Mod
 
-![Fallout 4 Mod Preview](fallout4.png)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rohitdev)
 
 Moved to a new place
